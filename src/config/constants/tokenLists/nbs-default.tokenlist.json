@@ -1,0 +1,52 @@
+{
+    "name": "XProtocol Default List",
+    "timestamp": "2023-02-8T11:45:09Z",
+    "version": {
+        "major": 4,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "./assets/images/logo.png",
+    "keywords": [
+        " xprotocol",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "X",
+            "symbol": "X",
+            "address": "0x08689475Eee20c12252621F37E46c6841F20Cd56",
+            "decimals": 18,
+            "chainId": 5,
+            "logoURI": "./assets/images/logo.png"
+        },
+
+        {
+            "name": "Wrapped Ether",
+            "address": "0x5d2FDbfB1CCe5F1Ed2ABf95D15fD71083a327d33",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 5,
+            "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+        },
+
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "address": "0x1E8520232500de66438029B28F4627990B58B86A",
+            "chainId": 5,
+            "decimals": 18,
+            "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png"
+        },
+
+        {
+            "name": "USDT",
+            "symbol": "USDT",
+            "address": "0xAf3bf9495ccAe5b3EA2A40A43164a4eCaFBD72Bc",
+            "chainId": 5,
+            "decimals": 18,
+            "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+        }
+    ]
+}
